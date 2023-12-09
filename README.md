@@ -5,19 +5,19 @@ Designed and implemented a Machine learning model to predict Laptop prices.
 The foundation of the Laptop Price Predictor project is built upon a comprehensive dataset meticulously curated for training and evaluating the prediction model. This dataset encompasses a wide range of laptop specifications, offering a rich source of information for understanding the intricate relationships between various features and the resultant laptop prices.
 
 # Data Overview
-Company  
-TypeName 
-Ram  
-Weight 
-Price 
-Touchscreen 
-Ips  
-Ppi  
-Cpu brand
-HDD 
-SSD 
-Gpu brand
-OpSys 
+Company, 
+TypeName,
+Ram,  
+Weight, 
+Price, 
+Touchscreen, 
+Ips,  
+Ppi,  
+Cpu brand,
+HDD, 
+SSD, 
+Gpu brand,
+OpSys, 
 
 # Features
 Company: This categorical feature represents the laptop manufacturer. It includes renowned brands in the tech industry, influencing pricing based on brand reputation, quality, and market positioning.
