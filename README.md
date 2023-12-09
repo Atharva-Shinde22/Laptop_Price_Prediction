@@ -6,18 +6,18 @@ The foundation of the Laptop Price Predictor project is built upon a comprehensi
 
 # Data Overview
 Company, 
-TypeName,
-Ram,  
-Weight, 
-Price, 
-Touchscreen, 
-Ips,  
-Ppi,  
-Cpu brand,
-HDD, 
-SSD, 
-Gpu brand,
-OpSys, 
+ TypeName,
+ Ram,  
+ Weight, 
+ Price, 
+ Touchscreen, 
+ Ips,  
+ Ppi,  
+ Cpu brand,
+ HDD, 
+ SSD, 
+ Gpu brand,
+ OpSys, 
 
 # Features
 Company: This categorical feature represents the laptop manufacturer. It includes renowned brands in the tech industry, influencing pricing based on brand reputation, quality, and market positioning.
