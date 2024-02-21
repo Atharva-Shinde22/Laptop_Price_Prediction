@@ -1,4 +1,4 @@
-# Laptop_Price_Prediction_System
+# Laptop_Price_Prediction
 Designed and implemented a Machine learning model to predict Laptop prices.
 
 # Dataset
